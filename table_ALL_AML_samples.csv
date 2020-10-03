@@ -1,4 +1,4 @@
-Samples,ALL/AML,BM/PB   ,T/B-cell,FAB     ,Date/Gender,% Blasts        Treatment,Treatment ,PS,Source,Train / Test
+Samples,ALL/AML,BM/PB   ,T/B-cell,FAB     ,Date/Gender,% Blasts        Treatment,Treatment ,PS,Source,Type
 1,ALL,BM,B-cell  ,,09/04/96 - M,,,1,DFCI,Train
 2,ALL,BM,T-cell,,           - M,,,0.41,DFCI,Train
 3,ALL,BM,T-cell,,           - M,,,0.87,DFCI,Train
